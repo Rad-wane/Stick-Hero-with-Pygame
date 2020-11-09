@@ -1,6 +1,6 @@
 # Stick hero with Python
 
-Dev. by : Porphyre 
+Dev. by : Rad-Wane  
 
 
 ## Game play:
@@ -9,6 +9,11 @@ Using the left click, a growing stick is drawn. Once the click ends, the stick r
 The game over screen can be removed, and the game restarted with the right click, a new game is launched. 
 The score of the game is incremented with 1 each time the hero moves from one obstacle to another. 
 A high score is updated each time accordingly and displayed in the game over screen. 
+
+## Screen shots:
+![](sc.png)
+![](sc1.png)
+
 
 ## The code:
 
