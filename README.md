@@ -11,8 +11,12 @@ The score of the game is incremented with 1 each time the hero moves from one ob
 A high score is updated each time accordingly and displayed in the game over screen. 
 
 ## Screen shots:
-![](sc.png)
-![](sc1.png)
+
+In the game                |  Game over screen
+:-------------------------:|:-------------------------:
+ ![](sc.png)               |  ![](sc1.png)
+
+
 
 
 ## The code:
